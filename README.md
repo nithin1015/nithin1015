@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nithin1015
+- 👋 Hi, I’m @Nithin
 - 👀 I’m interested in puzzles
 - 🌱 I’m currently learning DSA, System Design, Java
 
